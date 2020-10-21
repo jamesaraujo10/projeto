@@ -1,0 +1,24 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 91eb021..e288e70 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,15 +8,8 @@[m
+ 		<h1>IFTO produz 20 mil litros de álcool em gel para doação à comunidade tocantinense</h1>[m
+ 		<h5>Benefício direto</h5>[m
+ 		<h3>Coordenadores falam da importância de contribuir no combate à Covid-19</h3>[m
+[31m-		<p>O Instituto Federal do Tocantins (IFTO), entre tantos objetivos, tem o propósito de contribuir[m
+[31m-		com a transformação de realidades, levando benefício direto à população através da oferta de ensino[m
+[31m-		e do desenvolvimento de pesquisas inovadoras.</p>[m
+[31m-		<p>Diante do cenário difícil enfrentado pela sociedade durante a pandemia da Covid-19, o IFTO[m
+[31m-		cumpre seu papel social de modo a auxiliar no controle da transmissão do novo coronavírus. Nesse[m
+[31m-		sentido, grupos de servidores e estudantes produziram 20 mil litros de gel de álcool etílico[m
+[31m-		glicerinado 76% GL, que serão distribuídos gratuitamente à comunidade tocantinense, de norte a sul[m
+[31m-		do Estado. A produção foi feita utilizando a infraestrutura, insumos e equipamentos do IFTO e teve[m
+[31m-		o apoio da Secretaria de Educação Profissional e Tecnológica (Setec). Participaram do processo de[m
+[31m-		fabricação as unidades de Araguaína, Araguatins, Gurupi, Paraíso do Tocantins e Palmas.</p>[m
+[32m+[m		[32m<p>O Instituto Federal do Tocantins (IFTO), entre tantos objetivos, tem o propósito de contribuir com a transformação de realidades, levando benefício direto à população através da oferta de ensino e do desenvolvimento de pesquisas inovadoras.</p>[m
+[32m+[m		[32m<p>Diante do cenário difícil enfrentado pela sociedade durante a pandemia da Covid-19, o IFTO cumpre seu papel social de modo a auxiliar no controle da transmissão do novo coronavírus. Nesse sentido, grupos de servidores e estudantes produziram 20 mil litros de gel de álcool etílico glicerinado 76% GL, que serão distribuídos gratuitamente à comunidade tocantinense, de norte a sul do Estado. A produção foi feita utilizando a infraestrutura, insumos e equipamentos do IFTO e teve o apoio da Secretaria de Educação Profissional e Tecnológica (Setec). Participaram do processo de	fabricação as unidades de Araguaína, Araguatins, Gurupi, Paraíso do Tocantins e Palmas.</p>[m
+[32m+[m		[32m<p>A coordenadora da regional no Tocantins do MIQCB, Emília Alves, parabeniza o IFTO por essa atitude de procurar o movimento para realizar a doação. Além disso, ela agradece a entrega, uma vez que o acesso gratuito ao álcool em gel é um facilitador no combate à disseminação do novo corona vírus. Ainda na oportunidade, a associação foi convidada a apresentar o trabalho das quebradeiras no Instituto, após este contexto de pandemia.</p>[m
+ 	</body>[m
+ </html>[m
+\ No newline at end of file[m
